@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.colourClass{
+    width: 100vw;
+    height: 10vh;
+    background-color: aqua;
+}
+.Buttons
+{
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(0, 38, 255)
+}
+.ButtonToClick{
+    height: 5vh;
+
+}
